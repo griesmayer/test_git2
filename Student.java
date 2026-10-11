@@ -1,3 +1,4 @@
 public class Student {
-   private String fullName;
+	private String firstName;
+	private String lastName;
 }
